@@ -1,2 +1,3 @@
-# exo-css-flexbox
-exo css flexbox
+# Exo3-Css
+
+Réaliser la maquette en utilisant exclusivement les propriétés Flexbox !
